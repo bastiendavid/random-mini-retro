@@ -1,0 +1,39 @@
+body {
+    font-family: "Helvetica Neue", sans-serif;
+    background: #333652;
+    color: #E9EAEC;
+    margin: 40px;
+}
+
+.title {
+    text-align: center;
+}
+
+.quote {
+    text-align: center;
+    font-style: italic;
+}
+
+.rules {
+}
+
+.selection {
+    display: flex;
+    flex-direction: column;
+}
+
+.select-button {
+    margin: auto;
+    font-size: 30px;
+    cursor: pointer;
+    border: 1px solid #FAD02C;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.selected-retrospective {
+    font-size: 20px;
+    color: #FAD02C;
+    margin: 60px;
+    text-align: center;
+}
