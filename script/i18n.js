@@ -1,3 +1,3 @@
 if (/^fr\b/.test(navigator.language)) {
-    window.location.href = '/fr';
+    window.location.href = './fr';
 }
