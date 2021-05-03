@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link type="text/css" href="../style/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <script src="script/retros.js"></script>
+    <script src="../script/views.js"></script>
+    <title>Random mini retrospective</title>
+</head>
+<body>
+<h1 class="title">Random mini retro</h1>
+<div class="quote">Un format de mini rétrospective pour prendre du recul sur la journée qui vient de se passer</div>
+
+<div class="rules">
+    <h2 class="subtitle">Comment ça marche</h2>
+    <div>
+        <p>À la fin de la journée, il est bon de réfléchir à ce qui s'est passé pour vous et vos coéquipiers. Prendre
+            quelques minutes
+            minutes pour partager ce que vous avez vécu et pour écouter ce que les autres ont vécu.</p>
+        <p>Le principe est simple : vous lancez un format de rétrospective aléatoire, et laissez tout le monde partager
+            à ce sujet.</p>
+    </div>
+</div>
+<div class="selection">
+    <h2 class="subtitle">Let's roll</h2>
+    <span id="select-button" class="select-button" onclick="showRandomRetrospective()">🎲</span>
+</div>
+<div id="selected-retrospective" class="selected-retrospective"></div>
+</body>
+</html>
