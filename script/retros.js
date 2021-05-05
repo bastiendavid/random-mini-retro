@@ -24,7 +24,9 @@ const retrospectives = [
     `If you would describe your day in a metaphor, it would be like what?`,
     `What were 2 things you learned? One thing you liked? And what will we do tomorrow to make it a great day?`,
     `If the result of the work we did today was like a building, it was like what?`,
-    `Your day was like a chocolate box. What was the chocolate that delighted you? What was the chocolate that seemed really good but tasted awful? What was the chocolate that surprised you and was better than expected?`
+    `Your day was like a chocolate box. What was the chocolate that delighted you? What was the chocolate that seemed really good but tasted awful? What was the chocolate that surprised you and was better than expected?`,
+    `If today was in Star Wars... When was it when you stumbled upon Darth Vader without your lightsaber? When was it when you used your Jedi powers? When was it you went to train with Master Yoda to learn new things?`,
+    `🎃 Today, what was the spider web in which you got stuck? What was the costume that scared you the most? What were your favorite candies? 🎃`
 ];
 
 function randomRetro() {

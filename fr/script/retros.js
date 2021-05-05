@@ -24,7 +24,9 @@ const retrospectives = [
     `Si tu devais décrire ta journée en une métaphore, ce serait comme quoi ?`,
     `Quelles sont les deux choses que tu as apprises ? Une chose que tu as aimée ? Et que ferons-nous demain pour que ce soit une super journée ?`,
     `Si le résultat du travail que nous avons fait aujourd'hui était comme un bâtiment, c'était comme quoi ?`,
-    `Ta journée était comme une boîte de chocolat. Quel était le chocolat qui t'a fait plaisir ? Quel était le chocolat qui semblait vraiment bon mais qui avait un goût affreux ? Quel est le chocolat qui t'as le plus surprise et qui était meilleur que prévu ?`
+    `Ta journée était comme une boîte de chocolat. Quel était le chocolat qui t'a fait plaisir ? Quel était le chocolat qui semblait vraiment bon mais qui avait un goût affreux ? Quel est le chocolat qui t'as le plus surprise et qui était meilleur que prévu ?`,
+    `Si aujourd'hui on était dans Star Wars... C'était quand le moment où tu t'es tombée face à face à Dark Vador et que t'avais oublié ton sabre laser ? C'était quand le moment où t'as utilisé tes pouvoirs de Jedi ? C'était quand le moment où t'es allée t'entraîner avec Maître Yoda et où t'as appris des choses ?`,
+    `🎃 Aujourd'hui, c'était quoi la toile d'araignée dans laquelle tu t'es engluée ? C'était quoi le costume qui t'as fait le plus peur ? C'était quoi tes bonbons préférés ? 🎃`
 ];
 
 
