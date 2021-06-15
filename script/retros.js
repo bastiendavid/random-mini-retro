@@ -28,7 +28,8 @@ const retrospectives = [
     `If today was in Star Wars... When was it when you stumbled upon Darth Vader without your lightsaber? When was it when you used your Jedi powers? When was it you went to train with Master Yoda to learn new things?`,
     `🎃 Today, what was the spider web in which you got stuck? What was the costume that scared you the most? What were your favorite candies? 🎃`,
     `Your day was in Harry Potter : what is the basilisk you met? What is your patronus to repel dementors? What did you see in the Mirror of Erised?`,
-    `Your day was like: when was it when the piton left in your hand? when was it when you climb without your hands? What do we change to be not scare any more?`
+    `Your day was like: when was it when the piton left in your hand? when was it when you climb without your hands? What do we change to be not scare any more?`,
+    `Your day was like a bowling game 🎳 : when did you knocked zero pin ? when did you roll a spare ? when did you roll a strike ?`
 ];
 
 function randomRetro() {
