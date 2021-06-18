@@ -28,7 +28,8 @@ const retrospectives = [
     `Si aujourd'hui on était dans Star Wars... C'était quand le moment où tu t'es tombée face à face à Dark Vador et que t'avais oublié ton sabre laser ? C'était quand le moment où t'as utilisé tes pouvoirs de Jedi ? C'était quand le moment où t'es allée t'entraîner avec Maître Yoda et où t'as appris des choses ?`,
     `🎃 Aujourd'hui, c'était quoi la toile d'araignée dans laquelle tu t'es engluée ? C'était quoi le costume qui t'as fait le plus peur ? C'était quoi tes bonbons préférés ? 🎃`,
     `Ta journée dans harry potter : c'était quoi le basilic que tu as rencontré ? Quel était ton patronus pour échapper aux détraqueurs ? Qu'as tu vu dans le miroir de Riséd ?`,
-    `Ta journée comme une voie d'escalade : le moment ou le piton t’est resté dans les doigts ? le moment ou t’as réussi à grimper sans les mains ? Qu’est-ce qu’on change pour plus se faire peur ?`
+    `Ta journée comme une voie d'escalade : le moment ou le piton t’est resté dans les doigts ? le moment ou t’as réussi à grimper sans les mains ? Qu’est-ce qu’on change pour plus se faire peur ?`,
+    `Ta journée comme une partie de bowling 🎳 : quel était le coup raté ? quel était le spare ? quel était le strike ?`
 ];
 
 
