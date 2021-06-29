@@ -29,7 +29,8 @@ const retrospectives = [
     `🎃 Today, what was the spider web in which you got stuck? What was the costume that scared you the most? What were your favorite candies? 🎃`,
     `Your day was in Harry Potter : what is the basilisk you met? What is your patronus to repel dementors? What wish did you see in the Mirror of Erised?`,
     `Your day was like: when was it when the piton left in your hand? when was it when you climb without your hands? What do we change to be not scare any more?`,
-    `Your day was like a bowling game 🎳: when did you knocked zero pin? when did you roll a spare? when did you roll a strike?`
+    `Your day was like a bowling game 🎳: when did you knocked zero pin? when did you roll a spare? when did you roll a strike?`,
+    `🍸 If your day was like a drink, what was it? What is the perfect cocktail for tomorrow? 🍹`
 ];
 
 function randomRetro() {

@@ -29,7 +29,8 @@ const retrospectives = [
     `🎃 Aujourd'hui, c'était quoi la toile d'araignée dans laquelle tu t'es engluée ? C'était quoi le costume qui t'as fait le plus peur ? C'était quoi tes bonbons préférés ? 🎃`,
     `Ta journée dans harry potter : c'était quoi le basilic que tu as rencontré ? Quel était ton patronus pour échapper aux détraqueurs ? Quel souhait as tu vu dans le miroir de Riséd ?`,
     `Ta journée comme une voie d'escalade : le moment ou le piton t’est resté dans les doigts ? le moment ou t’as réussi à grimper sans les mains ? Qu’est-ce qu’on change pour ne plus se faire peur ?`,
-    `Ta journée comme une partie de bowling 🎳 : quel était le coup raté ? quel était le spare ? quel était le strike ?`
+    `Ta journée comme une partie de bowling 🎳 : quel était le coup raté ? quel était le spare ? quel était le strike ?`,
+    `🍸 Si ta journée était une boisson ce serait laquelle ? Quel sera cocktail idéal pour demain ? 🍹`
 ];
 
 
