@@ -30,7 +30,8 @@ const retrospectives = [
     `Your day was in Harry Potter : what is the basilisk you met? What is your patronus to repel dementors? What wish did you see in the Mirror of Erised?`,
     `Your day was like climbing: when was it when the piton left in your hand? when was it when you climb without your hands? What do we change to be not scare any more?`,
     `Your day was like a bowling game 🎳: when did you knocked zero pin? when did you roll a spare? when did you roll a strike?`,
-    `🍸 If your day was like a drink, what was it? What is the perfect cocktail for tomorrow? 🍹`
+    `🍸 If your day was like a drink, what was it? What is the perfect cocktail for tomorrow? 🍹`,
+    `🏒 If your day was like a hockey match:  what was the best fight where you go to jail? 🥅 What was the amazing pass which allowed to score? 🥇 How will we win the match tomorrow?`
 ];
 
 function randomRetro() {

@@ -30,7 +30,8 @@ const retrospectives = [
     `Ta journée dans harry potter : c'était quoi le basilic que tu as rencontré ? Quel était ton patronus pour échapper aux détraqueurs ? Quel souhait as tu vu dans le miroir de Riséd ?`,
     `Ta journée comme une voie d'escalade : le moment ou le piton t’est resté dans les doigts ? le moment ou t’as réussi à grimper sans les mains ? Qu’est-ce qu’on change pour ne plus se faire peur ?`,
     `Ta journée comme une partie de bowling 🎳 : quel était le coup raté ? quel était le spare ? quel était le strike ?`,
-    `🍸 Si ta journée était une boisson ce serait laquelle ? Quel sera cocktail idéal pour demain ? 🍹`
+    `🍸 Si ta journée était une boisson ce serait laquelle ? Quel sera cocktail idéal pour demain ? 🍹`,
+    `🏒 Si ta journée était un match de hockey :  quelle était la plus belle bagarre où tu as fini en prison ? Quelle était la passe décisive qui a permis de marquer 🥅 ? Comment va-t-on gagner le match de demain 🥇 ?`
 ];
 
 
