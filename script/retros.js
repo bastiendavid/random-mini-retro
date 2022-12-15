@@ -1,7 +1,7 @@
 const retrospectives = [
     `What was one thing you loved today? One thing you disliked? And one thing we will change tomorrow?`,
     `What was one thing you learned? One thing you knew? And one thing we will experiment tomorrow?`,
-    `What was one thing you learned? One thing you would do differently? and on thing you liked?`,
+    `What was one thing you learned? One thing you would do differently? and one thing you liked?`,
     `If your day was like a meal, it was like what?`,
     `If your day was like a roller coaster, what was the slow ascent? What was the fast descent? What was the looping?`,
     `If you day was like a movie, it was like what?`,
